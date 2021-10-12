@@ -1,0 +1,17 @@
+body {
+    background: aquamarine;
+}
+#exampleImage {
+    width: 20%;
+    border-radius: 25%;
+}
+#result {
+    background: cadetblue;
+    width: 50%;
+    height: 150px;
+    border-radius: 25%;
+}
+b {
+    font-size: large;
+    color: coral;
+}
